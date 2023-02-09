@@ -8,9 +8,9 @@
 
 - ``` Built on Chrome's V8 JavaScript engine:``` Node.js is built on Google's high-performance V8 JavaScript engine, which enables fast code execution.
 
-- ```Package ecosystem:```` Node.js has a rich package ecosystem through npm (Node Package Manager), which makes it easy to add new functionality to your applications.
+- ```Package ecosystem:``` Node.js has a rich package ecosystem through npm (Node Package Manager), which makes it easy to add new functionality to your applications.
 
-- Asynchronous programming: Node.js supports asynchronous programming, which allows multiple tasks to run in parallel without blocking the main thread.
+- ```Asynchronous programming:``` Node.js supports asynchronous programming, which allows multiple tasks to run in parallel without blocking the main thread.
 
 - ``` Use cases:``` Node.js is commonly used for building server-side web applications, networked applications, command-line tools, and more.
 
