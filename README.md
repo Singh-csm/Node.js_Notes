@@ -6,7 +6,7 @@
 ### key points about Node.js:
 - Event-driven architecture: Node.js uses an event-driven, non-blocking I/O model, which makes it ideal for building real-time, high-performance applications.
 
-- ``` Built on Chrome's V8 JavaScript engine: Node.js is built on Google's high-performance V8 JavaScript engine, which enables fast code execution.```
+- ``` Built on Chrome's V8 JavaScript engine:``` Node.js is built on Google's high-performance V8 JavaScript engine, which enables fast code execution.
 
 - Package ecosystem: Node.js has a rich package ecosystem through npm (Node Package Manager), which makes it easy to add new functionality to your applications.
 
