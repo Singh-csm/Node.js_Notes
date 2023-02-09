@@ -52,3 +52,24 @@ Overall, Node.js is a powerful and versatile platform that is well-suited for bu
 
 # ``` Thank You! 💚```
 
+## Here is an example of a simple web server built with Node.js:
+```
+const http = require('http');
+
+const hostname = '127.0.0.1';
+const port = 3000;
+
+const server = http.createServer((req, res) => {
+  res.statusCode = 200;
+  res.setHeader('Content-Type', 'text/plain');
+  res.end('Hello, World!');
+});
+
+server.listen(port, hostname, () => {
+  console.log(`Server running at http://${hostname}:${port}/`);
+});
+
+```
+- This example creates a simple HTTP server using the http module that comes with Node.js. The server listens on localhost at port 3000, and returns a "Hello, World!" message for every incoming request. To run this code, save it to a file with a .js extension and run it with the node command.
+
+
