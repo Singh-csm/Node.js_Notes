@@ -12,7 +12,7 @@
 
 - Asynchronous programming: Node.js supports asynchronous programming, which allows multiple tasks to run in parallel without blocking the main thread.
 
-- Use cases: Node.js is commonly used for building server-side web applications, networked applications, command-line tools, and more.
+- ``` Use cases: Node.js is commonly used for building server-side web applications, networked applications, command-line tools, and more.```
 
 - Popular frameworks and libraries: There are many popular frameworks and libraries available for Node.js, including Express, Meteor, and Hapi, which make it easy to build and deploy applications.
 
@@ -20,7 +20,7 @@
 
 - Streams: Node.js provides a powerful way to handle streams of data, such as reading from or writing to a file, processing data from a network connection, or handling HTTP requests and responses.
 
-- Modules: Node.js uses a modular architecture, which allows developers to organize their code into reusable components.
+- ``` Modules: Node.js uses a modular architecture, which allows developers to organize their code into reusable components.```
 
 - Single-threaded: Despite its ability to handle many concurrent connections, Node.js is single-threaded, which means that it can only execute one task at a time. This can be mitigated using child processes or by using a technology like clustering to run multiple instances of the application.
 
@@ -36,7 +36,7 @@
 
 - Fast startup time: Node.js has a fast startup time, which makes it suitable for building command-line tools and other types of applications that need to start quickly.
 
-- Easy to learn: Node.js is relatively easy to learn, especially if you have experience with JavaScript.
+- ``` Easy to learn: Node.js is relatively easy to learn, especially if you have experience with JavaScript.```
 
 - Support for microservices: Node.js is a good choice for building microservices, which are small, self-contained services that work together to build a larger application.
 
@@ -50,5 +50,5 @@ Overall, Node.js is a powerful and versatile platform that is well-suited for bu
 
 
 
-
+# ``` Thank You! 💚```
 
