@@ -32,7 +32,7 @@
 
 - ```Scalability:``` One of the key benefits of Node.js is its scalability. Applications can be easily scaled by adding more resources, such as more CPU or memory, or by adding more nodes to a cluster.
 
-- Concurrency: Node.js is able to handle many concurrent connections, which makes it ideal for building real-time applications, such as chat applications or online games.
+- ```Concurrency```: Node.js is able to handle many concurrent connections, which makes it ideal for building real-time applications, such as chat applications or online games.
 
 - ```Fast startup time:``` Node.js has a fast startup time, which makes it suitable for building command-line tools and other types of applications that need to start quickly.
 
